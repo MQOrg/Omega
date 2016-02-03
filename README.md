@@ -14,5 +14,11 @@ We are LOOKING FOR FUNDING!
 
 At the moment, small parts of the brain work. Text based queries are working, but the mobile app, dashboard, and voice commands are all missing. Of course, the hardware parts are missing as well. We could do with some funding in order to get started!
 
-
 ~ PROJECT HAS BEEN RENAMED FROM SAL9000 TO OMEGA ~
+
+#### Updates
+_Feb. 3rd 2016_ - Voice recognition with understanding of intents is working now. The updates will be pushed after things are more stable.
+
+
+
+
